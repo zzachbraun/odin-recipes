@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(69, 69, 69);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+a,
+p,
+li {
+    color: whitesmoke;
+}
+
+.r-lst {
+    text-align: center;
+    list-style: none;
+    padding-left: 0px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+h2 {
+    text-decoration: underline;
+    color: whitesmoke;
+}
+
+
+.link-back {
+    text-align: center;
+    color: gray;
+}
